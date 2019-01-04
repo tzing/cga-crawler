@@ -113,3 +113,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# editor
+.vscode
+
+# data
+*.csv
+*.xls
+*.ods

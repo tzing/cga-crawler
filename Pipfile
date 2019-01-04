@@ -5,14 +5,11 @@ verify_ssl = true
 
 [dev-packages]
 yapf = "*"
+colorlog = "*"
 
 [packages]
-jupyter = "*"
 tqdm = "*"
 bs4 = "*"
 requests = "*"
 lxml = "*"
 pandas = "*"
-
-[requires]
-python_version = "3.7"
